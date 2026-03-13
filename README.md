@@ -1,6 +1,7 @@
 # Welcome to Your Miaoda Project
 
 ## Project Info
+This is a demo project. The purpose is to show the structure system flow program on how the transalation works. 
 
 ## Project Directory
 
