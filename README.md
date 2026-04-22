@@ -91,6 +91,13 @@ Configure environment variables and install relevant dependencies.If you need to
 
 You can also check the help documentation: Download and Building the app（ [https://intl.cloud.baidu.com/en/doc/MIAODA/s/download-and-building-the-app-en](https://intl.cloud.baidu.com/en/doc/MIAODA/s/download-and-building-the-app-en)）to learn more detailed content.
 
+---
+
+## UI/UX Webpage Display 
+
+<img width="1079" height="719" alt="Screenshot 2026-04-22 114520" src="https://github.com/user-attachments/assets/ba159d08-7231-4bcd-a138-c43739516955" />
+
+
 ## Direct to the website !
 
 <img width="176" height="183" alt="image" src="https://github.com/user-attachments/assets/12b92931-d1ff-4d1a-8327-c5c1be3ba1e1" />
